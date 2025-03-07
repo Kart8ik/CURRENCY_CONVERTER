@@ -1,2 +1,2 @@
 freecurrencyapi
-matplotlib.pyplot
+matplotlib
