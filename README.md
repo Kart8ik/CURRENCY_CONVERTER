@@ -3,6 +3,8 @@
 ## Overview
 This is a **Streamlit-based Currency Converter** that allows users to convert amounts between different currencies using real-time exchange rates. It also provides historical exchange rate trends with graphical representation.
 
+App hosted on https://currencyconverter15.streamlit.app
+
 ## Features
 - Convert currency values between multiple global currencies.
 - Fetch real-time exchange rates using **freecurrencyapi**.
